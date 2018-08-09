@@ -1,0 +1,21 @@
+.Main-Title{
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  font-family: Arial;
+  font-variant: small-caps;
+  color: red;
+  margin: 20px;
+}
+
+.Background {
+  border-width: 5px;
+  border-radius: 5px;
+  border:2px;
+  border-color: black;
+  width: 800px;
+  height: 600px;
+  background-image:url("/Images/mainBackround.png");
+  margin-left: auto;
+  margin-right: auto;
+}
